@@ -32,5 +32,7 @@ No extra packages are required if you are using the built-in Tkinter module.
 ## Installation
 
 [Download Video Compressor.exe](https://github.com/NewFireDragon39/Video-Compressor/blob/main/Video-Compressor.exe) or enter the [source code](https://github.com/NewFireDragon39/Video-Compressor/blob/main/source_code.py) into a Python 3.x enviroment.
+
 Download ffmpeg from https://ffmpeg.org/download.html
+
 Install ffmpeg by extracting the archive and adding "ffmpeg\bin" to you PATH in Eviromental Variables.
