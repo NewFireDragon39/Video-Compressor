@@ -44,3 +44,4 @@ The compressor significantly reduce file size, while hardly affecting quality.
 Before:              After:
 
 [![Before Preview](images/before-preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/before.mp4)  [![After Preview](images/After-preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/after.mp4)
+[Click me](before.mp4)
