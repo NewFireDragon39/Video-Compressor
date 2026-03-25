@@ -39,9 +39,7 @@ No extra packages are required if you are using the built-in Tkinter module.
 
 ## Before & After
 
-The compressor significantly reduce file size, while hardly affecting quality.
+The compressor significantly reduce file size, while hardly affecting quality (because GIFs are to big, you'll have to download the .mp4 files to see the before and after).
 
-Before:              After:
-
-[![Before Preview](images/before-preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/before.mp4)  [![After Preview](images/After-preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/after.mp4)
-[Click me](before.mp4)
+[Before](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/before.mp4)  
+[After](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/after.mp4)
