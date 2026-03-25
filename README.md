@@ -36,3 +36,11 @@ No extra packages are required if you are using the built-in Tkinter module.
 2. Download ffmpeg from https://ffmpeg.org/download.html
 
 3. Install ffmpeg by extracting the archive and adding "ffmpeg\bin" to you PATH in Eviromental Variables.
+
+## Before & After
+
+The compressor significantly reduce file size, while hardly affecting quality.
+
+Before:              After:
+
+[![Before Preview](images/preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/tba.mp4)  [![After Preview](images/preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/tba.mp4)
