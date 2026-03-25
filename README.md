@@ -43,4 +43,4 @@ The compressor significantly reduce file size, while hardly affecting quality.
 
 Before:              After:
 
-[![Before Preview](images/preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/tba.mp4)  [![After Preview](images/preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/tba.mp4)
+[![Before Preview](images/preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/before.mp4)  [![After Preview](images/preview.png)](https://github.com/NewFireDragon39/Video-Compressor/releases/latest/download/after.mp4)
